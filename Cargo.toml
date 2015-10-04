@@ -1,8 +1,8 @@
 [package]
-name = "embedded-rust"
+name = "embedded_rust"
 version = "0.1.0"
 authors = ["Daniel Carral <dan@dcarral.org>"]
 
 [lib]
-name = "embedded-rust"
+name = "embedded_rust"
 crate-type = ["dylib"]
